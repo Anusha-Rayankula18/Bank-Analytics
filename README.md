@@ -18,9 +18,9 @@ KPI2:Grade and sub grade wise revolving Balance
 
 ➡ Comparing Grade and subgrade wise revolving balance we can notice Grade-B have more revolving balance then any other grade & Grade-G have very low revolving balance.
 
-➡ As we can see that Grade B customers has higher annual income for 10+ years of employment period, so higher the annual income lower the Debt to income ratio and hence, ➡ 
+➡ As we can see that Grade B customers has higher annual income for 10+ years of employment period, so higher the annual income lower the Debt to income ratio 
 
-➡ more number of customers took loan in Grade B .
+➡ And hencemore number of customers took loan in Grade B .
 
 ➡ Similarly, it goes for other grades too B>A>C>D>E>F>G order for revolving Balance as per annual income
 
@@ -43,6 +43,35 @@ KPI5:Home ownership vs last payment date:
 ➡ Here, we can see that maximum customers who paid on last date was Renters(47.59%) followed by Mortgage(44.39%).
 
 ➡ Owners who owned houses are paying loans in time before the due date and its is approximately 7.37% as per info available.
+
+• Challenges faced:
+
+1.Data quality issues, such as missing or inconsistent data.
+
+2.Complex data structures and formats, requiring extensive data transformation.
+
+3.Integration of data from multiple sources, leading to compatibility issues.
+
+4.Ensuring data privacy and compliance with regulatory requirements.
+
+5.Limited availability of relevant data for analysis, impacting the depth of insights.
+
+6.Managing large volumes of data efficiently to avoid performance issues.
+
+• What I learnt :
+
+1.Enhanced proficiency in data analysis tools such as Excel, Power BI, Tableau, and SQL.
+
+2.Successful development and implementation of key performance indicators (KPIs) for monitoring and evaluating business performance.
+
+3.Creation of interactive dashboards and reports that effectively communicated insights to stakeholders.
+
+4.Experience gained in identifying and addressing data quality issues and challenges.
+
+5.Application of problem-solving skills to resolve complex data analysis issues and optimize processes.
+
+6.Adherence to data privacy and compliance regulations in handling sensitive banking data.
+
 
 (https://github.com/Anusha-Rayankula18/Bank-Analytics/assets/167794071/bdac1fae-5800-4e3d-a336-abad95100465)
 
